@@ -6,7 +6,7 @@ public class Object1 {
 		
 		Object1 obj=new Object1();
 		System.out.println(obj.i);
-		System.out.println(obj.i+5);
+		System.out.println(obj.i+5);//hai
 		}
 
 }
